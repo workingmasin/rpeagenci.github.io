@@ -180,6 +180,7 @@ hr { border-top: 1px solid white; }
     max-width: 660px;
     font-size: 0.95rem;
 }
+
 .cs-sd{
     display: inline-block;
     outline: none;
@@ -198,9 +199,7 @@ hr { border-top: 1px solid white; }
     transition-property: background;
     transition-duration: 150ms;
     box-shadow: none;
-    
 }
-
 
 .cs-sd2{
     display: inline-block;
