@@ -180,6 +180,47 @@ hr { border-top: 1px solid white; }
     max-width: 660px;
     font-size: 0.95rem;
 }
+.cs-sd{
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 0 20px;
+    line-height: 26px;
+    height: 38px;
+    max-height: 30px;
+    background: none;
+    font-weight: 700;
+    border: 11;
+    border-radius: 0;
+    color: #b3b3b3;
+    transition-timing-function: ease-in-out;
+    transition-property: background;
+    transition-duration: 150ms;
+    box-shadow: none;
+    
+}
+
+
+.cs-sd2{
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 0 18px;
+    line-height: 26px;
+    height: 38px;
+    max-height: 30px;
+    background: none;
+    font-weight: 700;
+    border: 11;
+    border-radius: 0;
+    color: #ffffff;
+    transition-timing-function: ease-in-out;
+    transition-property: background;
+    transition-duration: 150ms;
+    box-shadow: none;
+}
 
 .tm-col-footer { padding-left: 0; }
 .tm-text-link { color: white; }
